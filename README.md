@@ -13,6 +13,11 @@ Through this process, designers learn how to sketch 2D profiles based on structu
 3.16 GB of RAM: High-performance memory capacity required to handle complex 3D graphics and rendering operations (integrated graphics with 1 GB VRAM or more is strongly recommended).
 4.Internet Connection: A stable broadband connection with a download speed of 2.5 Mbps or faster, and an upload speed of 500 Kbps or faster to support cloud saving and workspace syncing.
 
+## STEP-1:  START THE SKETCH COMMAND
+Objective: To begin the sketching process in your CAD software(such as Autodesk Fusion 360).
+Action to perform: 1.Navigate to the top menu bar or toolbar.2.Click on sketch.3.From the dropdown option, select create sketch.
+                    
+
 ## STEP-2:  Select the Sketch Plane
  Open autodesk fusion 360 and choose the TOP(XY)plane to start your initial 2D drawing.
 
